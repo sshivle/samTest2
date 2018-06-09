@@ -23,7 +23,7 @@ Calc c1;
 		assertTrue("Divide 10 and 20", i ==5);
 	}
 
-	
+/*	
 	public void testDivideZer0() {
 		try {
 		int i = c1.divide("1A0","0");
@@ -43,5 +43,5 @@ Calc c1;
 		}
 	}
 	
-
+*/
 }
